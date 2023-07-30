@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scrolls from Naruto
+* source:	https://sketchfab.com/3d-models/scrolls-from-naruto-4cf520f38b4e444085b9f564a29e513d
+* author:	Viggo (https://sketchfab.com/Viggoa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scrolls from Naruto" (https://sketchfab.com/3d-models/scrolls-from-naruto-4cf520f38b4e444085b9f564a29e513d) by Viggo (https://sketchfab.com/Viggoa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
